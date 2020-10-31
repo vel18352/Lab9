@@ -1,0 +1,40 @@
+$date
+	Sat Oct 31 09:50:14 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Buffer_T $end
+$var wire 4 ! out [3:0] $end
+$var reg 1 " eneable $end
+$var reg 4 # entry [3:0] $end
+$scope module Buffer_Tri $end
+$var wire 1 " eneable $end
+$var wire 4 $ entry [3:0] $end
+$var wire 4 % out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bz %
+b0 $
+b0 #
+0"
+bz !
+$end
+#10
+b1010 #
+b1010 $
+#20
+b1010 !
+b1010 %
+1"
+#30
+bz !
+bz %
+0"
+#40
